@@ -1,5 +1,4 @@
-﻿
-namespace NotesMaker.Backend.Domain.Common
+﻿namespace NotesMaker.Backend.Domain.Common
 {
     public class NoteAccess
     {
